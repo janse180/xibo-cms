@@ -10,4 +10,4 @@ fi
 
 [[ -d ./app/tmp ]] && chmod -R go+rw ./app/tmp
 
-yum install php-mcrypt
+#yum install php-mcrypt
